@@ -1,0 +1,7 @@
+# Secrets & credentials
+.env
+.gsheets_token.json
+
+# Python
+__pycache__/
+*.pyc
